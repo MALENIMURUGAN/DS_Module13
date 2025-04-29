@@ -106,23 +106,7 @@ return 1;
 ## Result:
 Thus, the C program to convert the infix expression into postfix form using stack by following the operator precedence and associative rule is implemented successfully.
 
-## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
 
-## Program:
-```
-/*
-Program to convert the infix expression into postfix expression
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
 
 
 
